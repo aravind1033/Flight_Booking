@@ -1,4 +1,4 @@
-# travel_app
+Flight Ticket Booking app
 
 A new Flutter project.
 
